@@ -4,6 +4,6 @@
 
 
 
-### check out my favorite [website] (https://www.pgpf.org/national-debt-clock)
+### check out my favorite [website](https://www.pgpf.org/national-debt-clock)
 
 ## interesting, right? 
