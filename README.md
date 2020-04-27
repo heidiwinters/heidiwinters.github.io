@@ -7,7 +7,7 @@
 1. swimming
 1. yoga
 
-# I have a big family! 
+# I love food! 
 | Favorite foods | favorite soup | favorite days |
 | :---         |     :---:      |          ---: |
 | soup   | butternut squash     | tuesday    |
