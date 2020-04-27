@@ -7,7 +7,7 @@
 1. swimming
 1. yoga
 
-# I love food! 
+# I love food and I hate quarantine! 
 | Favorite foods | favorite soup | favorite days |
 | :---         |     :---:      |          ---: |
 | soup   | butternut squash     | tuesday    |
