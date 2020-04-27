@@ -8,9 +8,10 @@
 1. yoga
 
 # I have a big family! 
-|Jenny|Celia|Daniel|
-|------------------|
-|26|24|21|
+| Favorite foods | favorite soup | favorite days |
+| :---         |     :---:      |          ---: |
+| soup   | butternut squash     | tuesday    |
+| popcorn     | tai coconut      | friday      |
 
 # I also have a dog named Lacey! 
 [image](lacey.png.jpeg)
