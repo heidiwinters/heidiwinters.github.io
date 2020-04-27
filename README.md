@@ -13,9 +13,14 @@
 | soup   | butternut squash     | tuesday    |
 | popcorn     | tai coconut      | friday      |
 
-# I also have a dog named Lacey! 
-[image](lacey.png.jpeg)
-
+# What have I  been doing during Quarantine?
+- [ ] Cooking
+- [x] sleeping
+- [x] eating
+- [x] playing with my dog
+- [ ] relaxing
+- [ ] trying to find a roommate 
+- [ ] not hanging out with my friends
 
 
 ### check out my favorite [website](https://www.pgpf.org/national-debt-clock)
