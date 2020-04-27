@@ -20,7 +20,7 @@
 - [x] playing with my dog
 - [ ] relaxing
 - [ ] trying to find a roommate 
-- [ ] not hanging out with my friends
+- [x] not hanging out with my friends
 
 
 ### check out my favorite [website](https://www.pgpf.org/national-debt-clock)
